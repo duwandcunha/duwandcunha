@@ -9,9 +9,14 @@
 - 💬 Interested in: **Data, technology & problem-solving**
 - ⚡ Goal: **Turning data into meaningful insights**
 
-Languages: Python, SQL
-Web Development: Flask, HTML, CSS
-Tools: SQLite, VS Code, GitHub
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,vscode,github" />
+</p>
+
+**Languages:** Python • SQL  
+**Framework:** Flask  
+**Database:** SQLite
 
 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duwandcunha&show_icons=true&theme=tokyonight&hide_border=true)
