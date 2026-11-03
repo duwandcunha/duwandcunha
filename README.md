@@ -30,3 +30,6 @@
 A Flask-based expense tracking application with user authentication, expense management, and dashboard analytics.
 **Tech:** Python • Flask • SQLite
 [View Repository](https://github.com/duwandcunha/expense-tracker)
+
+## 👀 Profile Visitors
+![Visitors](https://komarev.com/ghpvc/?username=duwandcunha&color=blueviolet&style=flat-square)
