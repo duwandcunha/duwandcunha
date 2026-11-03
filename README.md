@@ -22,6 +22,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duwandcunha&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duwandcunha&layout=compact&theme=tokyonight&hide_border=true)
 
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=duwandcunha&theme=tokyonight&hide_border=true)
+
 🚀 Featured Projects
 ### 💰 Expense Tracker
 A Flask-based expense tracking application with user authentication, expense management, and dashboard analytics.
